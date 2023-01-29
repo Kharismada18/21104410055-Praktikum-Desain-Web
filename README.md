@@ -11,7 +11,7 @@ Jurusan : Teknik Informatika
 Kampus  : Universitas Islam Balitar
 
 
-##🦕 Author 🦕
+🦕 Author 🦕
 
 - [@Kharismada18](https://github.com/Kharismada18)
 
