@@ -13,7 +13,7 @@ Kampus  : Universitas Islam Balitar
 
 ## 🧕🏻 Author
 
-- [@rizka magvira](https://github.com/rizka-19)
+- [@Kharismada18](https://github.com/Kharismada18)
 
 
 ## 🚨 Penting!
