@@ -1,10 +1,10 @@
 # 🦕🦕🦕 Praktikum Desain Web 🦕🦕🦕
 
-Nama    : Kharisma Dinda Ammareta
+Nama    : Kharisma Dinda Amareta 🦖
 
-NIM     : 21104410055
+NIM     : 21104410055 🦖
 
-Kelas   : TI-3B
+Kelas   : TI-3B 🦖
 
 Jurusan : Teknik Informatika
 
